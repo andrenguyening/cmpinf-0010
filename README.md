@@ -20,3 +20,9 @@ If you would like to contribute, here is how:
 2. Edit forked repository on your own account.
 3. Once finished, create and submit new pull request.
 4. Await for approval of merged pull request.
+
+# License
+Used unlicense in order to for anybody to contribute to the repo. dictator is open to free contributorship and contribution is encouraged. Unlicense allows everyone to contribute the best.
+
+# Code of Conduct
+We wanted every contributer to be able to commit to our project while being fair and respectful to other contributers. We wanted to create a nonhostile and professional environment in our project
